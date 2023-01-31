@@ -1,8 +1,8 @@
 <h1 align="center">Habits Manager</h1>
 
 <p align="center">
-  <a href="#">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#">Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/danielhuanca98/habits-manager-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/danielhuanca98/habits-manager-server">Server</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/file/7gcr5znHIaPz8JAoiyJo5f/Habits-(i)-(Community)-(Community)?node-id=6%3A343&t=YCRz5hgdnITX0zxk-0">Figma</a>
 </p>
